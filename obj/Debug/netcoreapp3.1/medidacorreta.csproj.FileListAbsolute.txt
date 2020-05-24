@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\obj\Debug\netcoreapp3.1\medidacorreta.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\obj\Debug\netcoreapp3.1\medidacorreta.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\obj\Debug\netcoreapp3.1\medidacorreta.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\bin\Debug\netcoreapp3.1\medidacorreta.exe
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\bin\Debug\netcoreapp3.1\medidacorreta.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\bin\Debug\netcoreapp3.1\medidacorreta.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\bin\Debug\netcoreapp3.1\medidacorreta.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\bin\Debug\netcoreapp3.1\medidacorreta.dll
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\bin\Debug\netcoreapp3.1\medidacorreta.pdb
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\obj\Debug\netcoreapp3.1\medidacorreta.dll
+C:\Users\Maria Luiza\Documents\Luiza\medidacorreta\medidacorreta\obj\Debug\netcoreapp3.1\medidacorreta.pdb
